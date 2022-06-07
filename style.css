@@ -1,0 +1,27 @@
+.navbar{
+    border: 2px solid black;
+    font-weight: bold;
+    
+    
+}
+.navbar-toggler{
+    border: 2px solid black;
+}
+
+h1{
+    
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.container{
+    margin-top: 30px;
+ 
+
+}
+.chiken{
+ 
+    font-weight: bold;
+    font-size: 20px;
+
+}
